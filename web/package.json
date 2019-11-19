@@ -1,7 +1,7 @@
 {
   "name": "olympos-gulp",
   "version": "1.0.0",
-  "description": "Try out theme",
+  "description": "Try out theme, working with drupal",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
